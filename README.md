@@ -1,0 +1,2 @@
+# SearchComparisons-Cipher
+I orginally wanted to find the number of comparisons linear and binary searches had but then realized that I finished that a bit too quickly then what I wanted. So, I decided to take up another problem which was question 14, page 327, "Given a message and a positive integer k less than 26, encrypt this message using the shift cipher with key k; and given a message encrypted using a shift cipher with key k, decrypt this message."
